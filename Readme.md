@@ -7,7 +7,7 @@
 
 -Uses a fade effect
 
-This project demonstrates
+#This project demonstrates
 
 -Semantic HTML5 Markup
 
